@@ -31,7 +31,7 @@ Neste projeto, utilizei princípios de design centrado no usuário, focando em:
 
 ## 📸 Imagens do Projeto
 
-https://drive.google.com/file/d/1xbrrYe3eGkCfaheqTOUkglp9m0QHvk5R/view?usp=sharing
+![Imagem do Projeto](https://drive.google.com/uc?export=view&id=1xbrrYe3eGkCfaheqTOUkglp9m0QHvk5R)
 
 ## ⚙️ Como Executar o Projeto
 
