@@ -31,7 +31,7 @@ Neste projeto, utilizei princípios de design centrado no usuário, focando em:
 
 ## 📸 Imagens do Projeto
 
-![Drone Store Screenshot]
+https://drive.google.com/file/d/1xbrrYe3eGkCfaheqTOUkglp9m0QHvk5R/view?usp=sharing
 
 ## ⚙️ Como Executar o Projeto
 
