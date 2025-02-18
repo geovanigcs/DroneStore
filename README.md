@@ -73,9 +73,6 @@ Para dúvidas ou sugestões, você pode entrar em contato através de:
 - LinkedIn: [Geovani Cordeiro](https://www.linkedin.com/in/geovanicordeirodev/)
 - GitHub: [geovanigcs](https://github.com/geovanigcs)
 
-## 🌐 Acesso ao Projeto
-
-O projeto será hospedado em breve! Fique atento para o link de acesso.
 
 ---
 
